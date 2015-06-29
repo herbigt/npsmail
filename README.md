@@ -1,5 +1,5 @@
 # npsmail
-A simple and responsive email template to check the NPS of your product
+A simple and responsive email template to easily check the NPS of your product
 
 ## What is this?
 A very basic but responsive email template which you can use to determine the NPS of your product by simply asking their customers how likely it is, that they would recommend your product?
