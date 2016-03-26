@@ -9,7 +9,7 @@ A very basic but responsive email template which you can use to determine the NP
 - This template was built using the framework [Ink from ZURB](http://zurb.com/ink/)
 - In order to determine the average NPS, you have to add specific tracking parameters to the numbers 1-10 (just change the href of the links)
 - As everything below 8 is considered worth improving, I highly recommend sending people who clicked on 1-7 to a separate page where they can add further comments to their rating
-- Everybody selecting 8-10 should just see a „thank you“ page after clicking the link
+- Everybody selecting 8-10 should just see a „thank you“ page after clicking the url
 - You should send out a NPS survey in regular intervals in order check if the customer value of your product has improved over time
 
 ## What is the NPS?
