@@ -5,7 +5,7 @@ A simple and responsive email template to easily check the NPS of your product
 A very basic but responsive email template which you can use to determine the NPS of your product by simply asking their customers how likely it is, that they would recommend your product?
 
 ## Further Details
-- **Important:** Make sure to remove my link target urls and put in your own! Otherwise you won’t be able to track your results (but thanks for the traffic).
+- **Important:** Make sure to remove my link target and put in your own! Otherwise you won’t be able to track your results (but thanks for the traffic).
 - This template was built using the framework [Ink from ZURB](http://zurb.com/ink/)
 - In order to determine the average NPS, you have to add specific tracking parameters to the numbers 1-10 (just change the href of the links)
 - As everything below 8 is considered worth improving, I highly recommend sending people who clicked on 1-7 to a separate page where they can add further comments to their rating
