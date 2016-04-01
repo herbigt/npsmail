@@ -17,7 +17,7 @@ Recently, a business metric has been gaining traction across a number of differe
 via [silicon valley product group](http://www.svpg.com/measuring-product-managers/)
 
 ## For whom is this?
-Everybody with a (mostly b2c) product who wants to look beyond analytics metrics.
+Everybody with (mostly b2c) products who wants to look beyond analytics metrics.
 
 ## Who am I?
 I’m Tim, a product guy from Hamburg, Germany. I’m currently with XING working on the Premium membership and love to expand my skill set by crafting side projects like this one.  
