@@ -16,7 +16,7 @@ A very basic but responsive email template which you can use to determine the NP
 Recently, a business metric has been gaining traction across a number of different industries, called the Net Promoter Score (NPS). You can read all about it if you like at www.netpromoter.com. It’s a very simple metric. You ask your customers how likely they would be to recommend your product, on scale of 0 to 10. Those that rate 9 or 10 are considered “promoters” (they’re out there telling their friends how much they love your product, and are actively evangelizing for you); those that rate 7-8 are lukewarm or neutral; and those that rate 0-6, the “detractors,” are not likely to recommend your product, and may even be actively warning their friends about your product. If you take the percentage of promoters and subtract the percentage of detractors, you should get the NPS. This essentially tells you if you have more people cheering for you or against you.  
 via [silicon valley product group](http://www.svpg.com/measuring-product-managers/)
 
-## For whom is this?
+## For whom is this tool?
 Everybody with (mostly b2c) products who wants to look beyond analytics metrics.
 
 ## Who am I?
